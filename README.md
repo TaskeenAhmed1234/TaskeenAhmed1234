@@ -1,6 +1,6 @@
 ## Hello 👋
 ## **My name is Taskeen Ahmed**😃
-## **she/her** 
+## Pronouns: **she/her** 
 ```
 {
   "firstName": "Taskeen ",
@@ -16,7 +16,7 @@
 -I took neuroscience because I wanted to study a discipline in university that includes the combination of both **<mark>psychology and biology<mark>**. I was intrigued to know more **<mark>neurological<mark>** and **<mark>psychatrical<mark>** conditions that indivisuals suffer from and I was facinated in learning more about the brains complexites and function.💊🔍🧠
 
 -*I have not figured out my careers plans yet however I want to be able to help others in the field of **<mark>healthcare<mark>** by making a difference in peoples lives and improve the well being of others.😄*
-![IMG_8425](https://github.com/user-attachments/assets/9e5a1361-bae7-4d44-8390-35e108265704)
+### ![IMG_8425](https://github.com/user-attachments/assets/9e5a1361-bae7-4d44-8390-35e108265704)
 
 
 <!--
