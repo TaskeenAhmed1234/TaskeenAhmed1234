@@ -1,6 +1,6 @@
 ## Hello 👋
-###**My name is Taskeen Ahmed**😃
-###**she/her** 
+## **My name is Taskeen Ahmed**😃
+## **she/her** 
 ```
 {
   "firstName": "Taskeen ",
