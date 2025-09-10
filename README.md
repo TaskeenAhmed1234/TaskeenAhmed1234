@@ -2,7 +2,7 @@
 
 **My name is Taskeen Ahmed**👩‍🔬
 
-**age:21**
+**Age:21**
 
 ***Pronouns:she/her:***
 
