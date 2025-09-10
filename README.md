@@ -1,7 +1,7 @@
 ## Get to know me 👋
-## **My name is Taskeen Ahmed**😃
-## Pronouns: **she/her** 
-## age:21
+**My name is Taskeen Ahmed**😃
+***Pronouns:she/her***
+**age:21**
 
 -I am a Bachelors of science student majoring in neuroscience and I am currenlty in my fourth year.📖👩‍🔬
 
