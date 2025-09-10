@@ -1,15 +1,9 @@
-## Hello 👋
+## Get to know me 👋
 ## **My name is Taskeen Ahmed**😃
 ## Pronouns: **she/her** 
-```
-{
-  "firstName": "Taskeen ",
-  "lastName": "Ahmed",
-  "age": 21
-}
-```
+## age:21
 
--I am a Bachelors of science student majoring in neuroscience and I am in my fourth year.📖👩‍🔬
+-I am a Bachelors of science student majoring in neuroscience and I am currenlty in my fourth year.📖👩‍🔬
 
 -I enrolled in this NESC 3505 because I am interested in learning how to code and I wanted to know more about scientific programming so that I can persue a careers in areas that include **<mark>neuroimaging and neurotechnology<mark>**. In addition, a few of my friends had recommended me to take this course as they enjoyed taking it in their previous years.🥼 💻🖱️
 
