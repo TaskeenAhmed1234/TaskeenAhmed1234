@@ -9,7 +9,7 @@
 1. ### **Which year am I in and what is my major ?**
  I am a Bachelors of Science student majoring in neuroscience at Dalhousie University and I am in my fourth year.📖👩‍🔬
 
-2. ### **A picture of me**
+2. ### **A picture of me: **
  
  ![My picture 7.18.49 PM.pdf](https://github.com/user-attachments/files/22352181/My.picture.7.18.49.PM.pdf)
 
